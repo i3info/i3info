@@ -2,7 +2,8 @@
 - 👀 I’m interested in information and digital content management
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on projects and funding
-- 📫 How to reach me ...info@mobiflo.app
+- 📫 Visit us online...www.mobiflo.app // info@mobiflo.app
+
 
 <!---
 i3info/i3info is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
