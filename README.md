@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @i3info (information innovation integration)
+- 👋 Hi, I’m i3info (information innovation integration)
+
 - 👀 I’m interested in information and digital content management
+
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on projects and funding
+
+- 💞️ I’m looking to collaborate on projects 
+
 - 📫 Visit us online...www.mobiflo.app // info@mobiflo.app
 
 
